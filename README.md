@@ -1,4 +1,5 @@
 https://github.com/user-attachments/assets/e1504aee-3c04-4f8f-9ed2-804d4242be0c
+
 INSTRUCTIONS: There is a .env file that is not gitignored so you should have it in the frontend which
 connects it to the backend..
 
